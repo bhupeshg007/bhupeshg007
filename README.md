@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-
-</head>
-<body>
 
 <h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -46,6 +40,4 @@
 </p>
   </div>
 
-</body>
-</html>
 
