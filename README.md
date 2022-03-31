@@ -1,8 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm Bhupesh</h1>
+<p><h1 align="center">Hi 👋, I'm Bhupesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p><img src="https://raw.githubusercontent.com/bhupeshg007/bhupeshg007/main/Git%20Image.jpg" alt="GitImage" /></p>
+  <img src="https://raw.githubusercontent.com/bhupeshg007/bhupeshg007/main/Git%20Image.jpg" alt="GitImage" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupeshg007&label=Profile%20views&color=0e75b6&style=flat" alt="bhupeshg007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhupeshgupta_" target="blank"><img src="https://img.shields.io/twitter/follow/bhupeshgupta_?logo=twitter&style=for-the-badge" alt="bhupeshgupta_" /></a> </p>
