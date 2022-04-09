@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Quiz App**
 
-- 🌱 I’m currently learning **[Redux](https://redux.js.org/)**
+- 🌱 I’m currently learning **[SASS,SCSS](https://sass-lang.com/)**
 
 - 👨‍💻 All of my projects are available at - [BKPortfolio](https://github.com/bhupeshg007?tab=repositories)
 
@@ -28,6 +28,8 @@
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/772/3801772-middle.png" alt="bootstrap" width="40" height="40"/> </a>
  <!-- State of Using Progaramm--> 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupeshg007&show_icons=true&locale=en&layout=compact" alt="bhupeshg007" />
   
